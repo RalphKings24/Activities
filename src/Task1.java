@@ -23,7 +23,6 @@ public class Task1 {
         }
         else {
             System.out.println("Sum = " + c);
-            System.out.println("Sum2 = " + c);
         }
     }
 }
