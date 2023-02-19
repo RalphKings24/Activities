@@ -1,4 +1,4 @@
-/*
+package booleanExercises;/*
 "twoAsOne"
 Given three ints, a b c, return true if it is possible to add two of the ints to get the third.
 */

@@ -1,3 +1,5 @@
+package booleanExercises;
+
 /*
 "caughtSpeeding"
 You are driving a little too fast, and a police officer stops you. Write code to compute the result,
